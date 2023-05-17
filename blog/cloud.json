@@ -1,23 +1,23 @@
 {
   "blogs": [
     {
-      "title": "Green cloud | Thoughtworks",
+      "title": "Green cloud",
       "uri": "https://www.thoughtworks.com/insights/decoder/g/green-cloud",
     },
     {
-      "title": "Carbon Cloud Footprint | Holaluz | Thoughtworks",
+      "title": "Carbon Cloud Footprint",
       "uri": "https://www.thoughtworks.com/clients/Bringing-green-cloud-optimization-to-a-green-energy-business",
     },
     {
-      "title": "Distributed cloud computing | Thoughtworks",
+      "title": "Distributed cloud computing",
       "uri": "https://www.thoughtworks.com/insights/decoder/d/distributed-cloud-computing",
     },
     {
-      "title": "A forecast of green clouds | Thoughtworks",
+      "title": "A forecast of green clouds",
       "uri": "https://www.thoughtworks.com/insights/articles/a-forecast-of-green-clouds",
     },
     {
-      "title": "Cloud native | Thoughtworks",
+      "title": "Cloud native",
       "uri": "https://www.thoughtworks.com/insights/decoder/c/cloud-native"
     }
   ]
