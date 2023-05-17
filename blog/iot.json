@@ -1,0 +1,24 @@
+{
+  "blogs": [
+    {
+      "title": "Connecting IoT devices to the cloud",
+      "uri": "https://www.thoughtworks.com/insights/blog/iot/connecting-iot-devices-cloud"
+    },
+    {
+      "title": "The IoT Testing Atlas",
+      "uri": "https://www.thoughtworks.com/insights/blog/iot-testing-atlas"
+    },
+    {
+      "title": "The two, opposing IoT r/evolutions in play",
+      "uri": "https://www.thoughtworks.com/insights/blog/two-opposing-iot-revolutions-play"
+    },
+    {
+      "title": "IoT: First the Hype, Then the Plumbing",
+      "uri": "https://www.thoughtworks.com/insights/blog/iot-first-hype-then-plumbing"
+    },
+    {
+      "title": "IoT: Smart Ecosystems are door openers for new business models",
+      "uri": "https://www.thoughtworks.com/insights/blog/iot-smart-ecosystems-are-door-openers-new-business-models"
+    }
+  ]
+}
